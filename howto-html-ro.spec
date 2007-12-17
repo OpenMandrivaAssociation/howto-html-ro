@@ -15,7 +15,6 @@ Source1:   %name
 
 Url:		http://www.linuxdoc.org/docs.html#howto
 License:	GPL
-BuildRoot:	%{_tmppath}/%{name}-root
 BuildArch:	noarch
 
 BuildRequires: howto-utils
