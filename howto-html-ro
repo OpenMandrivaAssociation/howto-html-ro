@@ -1,0 +1,2 @@
+?package(howto-html-ro): command="/usr/bin/www-browser /usr/share/doc/HOWTO/HTML/ro/index.html" icon="documentation_section.png" needs="x11" longtitle="HOWTO documents (html format) from the Linux Documentation Project in Romanian" title="Howtos Romanian" section="Documentation" 
+
